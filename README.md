@@ -1,16 +1,31 @@
-### Hi there 👋
+# Konichiwa 👋
 
-<!--
-**Lkingo/Lkingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
-Here are some ideas to get you started:
+</br>
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# About ME 💬 :
+
+### - I'm 20 years  old , software engineer & Artificial Intelligence student from morocco .
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ web development
+- ✨ AI
+
+### - Hobbies : 
+- ✨ programming
+- ✨ Reading books
+- ✨ Watching Anime
+- ✨ learning new things :)
+
+</br>
+</br>
+</br>
