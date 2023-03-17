@@ -1,7 +1,7 @@
 <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Abdelali! 💠</h1>
 
 <div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
+  <img width="720" height="auto" src="https://github.com/Lkingo/Lkingo/blob/master/FSN.gif">
 </div>
 
 <br>
