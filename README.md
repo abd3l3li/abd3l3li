@@ -18,7 +18,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ web development
-- ✨ AI
+- ✨ Cyber security
 
 ### - Hobbies : 
 - ✨ programming
