@@ -31,5 +31,5 @@
 </br>
 
 <div align="center">
-  <img width="720" height="auto" src="https://badge.mediaplus.ma/greenbinary/abel-baz)](https://github.com/oakoudad/badge42) ">
+  <img width="720" height="auto" src="https://badge.mediaplus.ma/greenbinary/abel-baz">
 </div>
