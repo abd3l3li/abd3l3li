@@ -36,3 +36,7 @@
    <img width="720" height="auto" 
  src="https://badge.mediaplus.ma/greenbinary/abel-baz" alt="abel-baz's 42 stats">
 </div>
+
+## ▪️ Github stats 📊
+
+![lkingo GitHub stats](https://github-readme-stats.vercel.app/api?username=gemartin99&show_icons=true&theme=github_dark)
