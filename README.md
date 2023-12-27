@@ -15,7 +15,7 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
+### ▪️ Learning :
 - ✨ Data Structures & Algorithms
 - ✨ web development
 - ✨ Cyber security
@@ -30,7 +30,7 @@
 </br>
 </br>
 
-## ▪️ I'm a student at [LEET](https://www.https://1337.ma/) 👨🏻‍💻📚 
+### ▪️ I'm a student at [LEET](https://www.https://1337.ma/) 👨🏻‍💻📚 
 
 <div align="center">
    <img width="720" height="auto" 
