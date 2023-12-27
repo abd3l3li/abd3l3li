@@ -30,7 +30,7 @@
 </br>
 </br>
 
-## ▪️ I'm student at [LEET](https://www.https://1337.ma/) 👨🏻‍💻📚 
+## ▪️ I'm a student at [LEET](https://www.https://1337.ma/) 👨🏻‍💻📚 
 
 <div align="center">
    <img width="720" height="auto" 
