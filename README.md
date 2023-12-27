@@ -29,3 +29,9 @@
 </br>
 </br>
 </br>
+
+https://badge.mediaplus.ma/greenbinary/abel-baz
+
+[![abel-baz's 42 stats](https://badge.mediaplus.ma/greenbinary/abel-baz)](https://github.com/oakoudad/badge42)
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/abel-baz" alt="abel-baz's 42 stats" /></a>
