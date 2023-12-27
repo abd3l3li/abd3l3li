@@ -30,4 +30,4 @@
 </br>
 </br>
 
-<h1 align="center">[![abel-baz's 42 stats](https://badge.mediaplus.ma/greenbinary/abel-baz)](https://github.com/oakoudad/badge42)</h1>
+<h1 align="center"> [![abel-baz's 42 stats](https://badge.mediaplus.ma/greenbinary/abel-baz)](https://github.com/oakoudad/badge42)</h1>
