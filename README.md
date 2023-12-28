@@ -15,7 +15,7 @@
 
 <div align="right">
    <img width="500" height="auto" 
- src="https://badge.mediaplus.ma/greenbinary/abel-baz](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif)" alt="GIF">
+ src="(https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif)" alt="GIF">
 <img hight="400" width="500" alt="" align="right" src="">
 
 ### ▪️ Learning :
