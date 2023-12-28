@@ -33,6 +33,6 @@
 ### ▪️ I'm a student at [LEET](https://www.https://1337.ma/) 👨🏻‍💻📚 
 
 <div align="center">
-   <img width="720" height="auto" 
+   <img width="700" height="auto" 
  src="https://badge.mediaplus.ma/greenbinary/abel-baz" alt="abel-baz's 42 stats">
 </div>
