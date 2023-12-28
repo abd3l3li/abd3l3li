@@ -15,7 +15,7 @@
 
 <div align="right">
    <img width="500" height="auto" 
- src="(https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif)" alt="GIF">
+ src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="GIF">
 </div>
 
 ### ▪️ Learning :
