@@ -13,10 +13,7 @@
 
 ### ▪️ I'm 21 years  old , software & Cyber security engineer student.
 
-<div align="right">
-   <img width="500" height="400" 
- src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-</div>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### ▪️ Learning :
 - ✨ Data Structures & Algorithms
