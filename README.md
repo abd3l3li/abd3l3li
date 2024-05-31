@@ -1,6 +1,10 @@
 <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Abdelali! 💠</h1>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>
+<div align="center">
+  <img width="720" height="auto" src="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">
+</div>
+
+<!--<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>-->
 
 </br>
 </br>
