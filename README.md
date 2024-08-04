@@ -21,7 +21,7 @@
 - ✨ Cyber security
 
 ### ▪️ Hobbies : 
-- ✨ programming
+- ✨ Coding
 - ✨ Reading
 - ✨ Photography
 - ✨ Learning New Technologies
