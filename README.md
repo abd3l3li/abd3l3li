@@ -16,7 +16,7 @@
 <img hight="400" width="500"  alt="abel-baz's 42 stats" align="right" src=https://badge.mediaplus.ma/greenbinary/abel-baz>
 
 ### ▪️ Learning :
-- ✨ Data Structures & Algorithms
+- ✨ Low-level programming & Algorithms
 - ✨ web development
 - ✨ Cyber security
 
