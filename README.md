@@ -5,7 +5,7 @@
 </div>
 
 <br>
-
+<br>
 
 <h1 align="center">👨🏻‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
@@ -24,4 +24,5 @@
 - ✨ Photography
 - ✨ Learning New Technologies
 
+<br>
 <br>
