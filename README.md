@@ -4,9 +4,7 @@
   <img width="720" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdiN3d3bWZkNHhwYzg4bjVlNWZ4Y3llbGszcnpkMmtpcHdyNGpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp">
 </div>
 
-</br>
-</br>
-</br>
+
 
 
 <h1 align="center">👨🏻‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
@@ -26,6 +24,4 @@
 - ✨ Photography
 - ✨ Learning New Technologies
 
-</br>
-</br>
-</br>
+
