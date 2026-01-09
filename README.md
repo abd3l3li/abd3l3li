@@ -58,11 +58,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abd3l3li&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=abd3l3li&theme=dark&include_all_commits=true&count_private=true&v=1)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abd3l3li&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=abd3l3li&theme=dark&v=1)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3l3li&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abd3l3li&theme=dark&layout=compact&v=1)
 
 ---
 
