@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelali 👋
 
-## Digital Technology Architect | Full-Stack Developer <!--| Cybersecurity Enthusiast-->
+## Digital Technology Architect | Full-Stack Developer | Cybersecurity Enthusiast
 
 I'm a 23-year-old Digital Technology Architect student at [LEET (1337)](https://www.1337.ma/), passionate about building robust, scalable solutions and exploring the depths of computer science.
 
@@ -42,7 +42,7 @@ I'm dedicated to mastering the fundamentals of software engineering while stayin
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Technologies & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,9 +55,26 @@ I'm dedicated to mastering the fundamentals of software engineering while stayin
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-baz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-baz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-baz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-baz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abel-baz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### [Project Name 1](link-to-project)
+Brief description of what the project does and technologies used.
+
+### [Project Name 2](link-to-project)
+Brief description of what the project does and technologies used.
+
+### [Project Name 3](link-to-project)
+Brief description of what the project does and technologies used.
 
 ---
 
@@ -65,7 +82,10 @@ I'm dedicated to mastering the fundamentals of software engineering while stayin
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelalielbaz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
 ---
 
