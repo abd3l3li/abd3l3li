@@ -1,24 +1,4 @@
-<p align="center">
-  <img alt="Typing intro"
-       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=🚀+Frontend+Developer+focused+on+React" />
-</p>
-
-<p align="center">
-  <img alt="Typing frontend"
-       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=🎨+Building+clean+and+scalable+UI+components" />
-</p>
-
-<p align="center">
-  <img alt="Typing learning"
-       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FACC15&center=true&vCenter=true&width=900&lines=📚+Learning+advanced+algorithms+and+data+structures" />
-</p>
-
-<p align="center">
-  <img alt="Typing collaboration"
-       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=900&lines=🤝+Open+to+open-source+collaboration" />
-</p>
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Frontend+Developer+focused+on+React;Building+clean+and+scalable+UI+components;Learning+advanced+algorithms+and+data+structures;Open+to+open-source+collaboration)
 
 
 ---
