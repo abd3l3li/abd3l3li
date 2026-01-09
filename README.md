@@ -1,10 +1,7 @@
-# 💫 About Me:
-🔭 Currently building full-stack web applications using **React** and **Node.js**  
-👯 Open to collaborating on **open-source projects**  
-🤝 Interested in **best practices for scalable and maintainable systems**  
-🌱 Learning **advanced algorithms and data structures**  
-💬 Ask me about **learning computer science from scratch**  
-⚡ Fun fact: I debug with coffee and solve problems with fresh air ☕🌲  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-stack+developer+using+React+and+Node.js;Open+to+open-source+collaboration;Interested+in+scalable+system+design;Learning+advanced+algorithms+and+data+structures;Debugging+with+coffee+and+fresh+air+☕🌲" alt="Typing SVG" />
+</p>
+
 
 ---
 
