@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelali 👋
 
-## Digital Technology Architect | Full-Stack Developer | Cybersecurity Enthusiast
+## Digital Technology Architect | Full-Stack Developer <!--| Cybersecurity Enthusiast-->
 
 I'm a 23-year-old Digital Technology Architect student at [LEET (1337)](https://www.1337.ma/), passionate about building robust, scalable solutions and exploring the depths of computer science.
 
