@@ -1,9 +1,13 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full-stack+developer+working+with+React+and+Node.js;🧠+Passionate+about+scalable+and+maintainable+systems;🎨+Enjoys+frontend+architecture+and+clean+code;📚+Learning+advanced+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration+and+continuous+learning"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=1000&lines=🚀+Full-stack+developer+working+with+React+and+Node.js" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=🎨+Enjoys+frontend+architecture+and+clean+code" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FACC15&center=true&vCenter=true&width=1000&lines=📚+Learning+advanced+algorithms+and+data+structures" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=F472B6&center=true&vCenter=true&width=1000&lines=🤝+Open+to+open-source+collaboration+and+learning" />
 </p>
+
 
 
 
