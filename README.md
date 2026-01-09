@@ -1,98 +1,28 @@
-# Hi there, I'm Abdelali 👋
-
-## Digital Technology Architect | Full-Stack Developer | Cybersecurity Enthusiast
-
-I'm a 23-year-old Digital Technology Architect student at [LEET (1337)](https://www.1337.ma/), passionate about building robust, scalable solutions and exploring the depths of computer science.
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Abdelali! 💠</h1>
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/abel-baz" alt="42 Stats">
+  <img width="720" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdiN3d3bWZkNHhwYzg4bjVlNWZ4Y3llbGszcnpkMmtpcHdyNGpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp">
 </div>
 
----
+<br>
+<br>
 
-## 🚀 About Me
+<h1 align="center">👨🏻‍💻 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-I'm dedicated to mastering the fundamentals of software engineering while staying current with modern technologies. My journey spans from low-level system programming to full-stack web development, with a keen interest in cybersecurity.
+### ▪️ I'm 23 years  old , digital technology architect student at [LEET](https://www.1337.ma/) 👨🏻‍💻📚 .
 
-- 🎓 Currently studying at **LEET (1337 School)**
-- 💡 Focused on writing clean, efficient, and maintainable code
-- 🔍 Always exploring new technologies and best practices
-- 📸 Photography enthusiast in my free time
+<img hight="400" width="500"  alt="abel-baz's 42 stats" align="right" src=https://badge.mediaplus.ma/greenbinary/abel-baz>
 
----
+### ▪️ Learning :
+- ✨ Low-level programming & Algorithms
+- ✨ web development
+- ✨ Cyber security
 
-## 💻 Technical Focus
+### ▪️ Hobbies : 
+- ✨ Coding
+- ✨ Reading
+- ✨ Photography
+- ✨ Learning New Technologies
 
-### Core Competencies
-- **Low-Level Programming**: Deep understanding of algorithms, data structures, and system architecture
-- **Web Development**: Building modern, responsive web applications
-- **Cybersecurity**: Implementing secure coding practices and understanding security principles
-
-### Currently Learning
-- Advanced algorithms and data structures
-- Modern web frameworks and technologies
-- Security best practices and penetration testing
-- System design and architecture patterns
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Technologies & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abel-baz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abel-baz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abel-baz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### [Project Name 1](link-to-project)
-Brief description of what the project does and technologies used.
-
-### [Project Name 2](link-to-project)
-Brief description of what the project does and technologies used.
-
-### [Project Name 3](link-to-project)
-Brief description of what the project does and technologies used.
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abel-baz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
-</div>
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
+<br>
+<br>
