@@ -57,8 +57,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abd3l3li&theme=onedark&row=1&column=6)
+## 📌 Featured Projects
+➡️ Check out my pinned repositories below ⬇️
 
 ---
 
