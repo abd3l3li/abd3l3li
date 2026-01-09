@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00FFCC&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+React+%26+Node.js;Backend+focused+%7C+APIs+%7C+System+design;Clean+code+%7C+Scalability+%7C+Performance;Algorithms+and+data+structures+learner;Debugging+with+coffee+and+fresh+air+☕🌲"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-stack+developer+working+with+React+and+Node.js;Passionate+about+scalable+and+maintainable+systems;Enjoys+backend+architecture+and+clean+code;Learning+advanced+algorithms+and+data+structures;Open+to+open-source+collaboration+and+learning"
     alt="Typing SVG"
   />
 </p>
+
 
 
 
