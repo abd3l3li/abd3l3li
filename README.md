@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-stack+developer+working+with+React+and+Node.js;Passionate+about+scalable+and+maintainable+systems;Enjoys+frontend+architecture+and+clean+code;Learning+advanced+algorithms+and+data+structures;Open+to+open-source+collaboration+and+learning"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=🚀+Full-stack+developer+working+with+React+and+Node.js;🧠+Passionate+about+scalable+and+maintainable+systems;🎨+Enjoys+frontend+architecture+and+clean+code;📚+Learning+advanced+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration+and+continuous+learning"
     alt="Typing SVG"
   />
 </p>
