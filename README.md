@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=🎨+Frontend+developer+building+modern+UIs+with+React;⚡+Focused+on+performance%2C+UX%2C+and+clean+design;🧩+Enjoys+component-driven+architecture+and+reusable+UI;🌱+Learning+advanced+frontend+patterns+and+best+practices;🤝+Open+to+open-source+collaboration+and+frontend+projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=+Frontend+developer+building+modern+UIs+with+React;⚡+Focused+on+performance%2C+UX%2C+and+clean+design;+Enjoys+component-driven+architecture+and+reusable+UI;+Learning+advanced+frontend+patterns+and+best+practices;+Open+to+open-source+collaboration+and+frontend+projects"
     alt="Typing SVG"
   />
 </p>
