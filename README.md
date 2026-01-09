@@ -8,9 +8,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding gif"/>
-</p>
+<div align="center">
+  <!--<img src="https://badge.mediaplus.ma/greenbinary/abel-baz" alt="42 Stats">-->
+  <img width="720" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdiN3d3bWZkNHhwYzg4bjVlNWZ4Y3llbGszcnpkMmtpcHdyNGpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.webp">
+</div>
 
 ---
 
