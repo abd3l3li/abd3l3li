@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Frontend+Developer+focused+on+React;Building+clean+and+scalable+UI+components;Learning+advanced+algorithms+and+data+structures;Open+to+open-source+collaboration)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=🚀+Frontend+Developer+focused+on+React;🎨+Building+clean+and+scalable+UI+components;🧩+Component-driven+architecture+and+reusable+design;📚+Learning+advanced+frontend+patterns+and+best+practices;🤝+Open+to+open-source+collaboration)
+
 
 
 ---
