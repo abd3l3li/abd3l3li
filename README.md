@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=+Frontend+developer+building+modern+UIs+with+React;⚡+Focused+on+performance%2C+UX%2C+and+clean+design;+Enjoys+component-driven+architecture+and+reusable+UI;+Learning+advanced+frontend+patterns+and+best+practices;+Open+to+open-source+collaboration+and+frontend+projects"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full-stack+developer+working+with+React+and+Node.js;Passionate+about+scalable+and+maintainable+systems;Enjoys+frontend+architecture+and+clean+code;Learning+advanced+algorithms+and+data+structures;Open+to+open-source+collaboration+and+learning"
     alt="Typing SVG"
   />
 </p>
+
 
 
 
