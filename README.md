@@ -58,7 +58,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abd3l3li&theme=onedark&row=1&column=6)
+![](https://github-profile-trophy.vercel.app/?username=abd3l3li&theme=darkhub)
 
 ---
 
