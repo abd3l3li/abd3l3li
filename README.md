@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=950&lines=🚀+Full-stack+Developer+%7C+React+•+RestAPI+•+Docker;🎨+Building+scalable+UIs+and+robust+backend+APIs;⚙️+Low-level+programming+with+C/C%2B%2B+and+Linux;🐧+System+administration+and+DevOps+workflows;📚+Exploring+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=950&lines=🚀+Web+Developer+%7C+React+•+RestAPI+•+Docker;🎨+Building+scalable+UIs+and+robust+backend+APIs;⚙️+Low-level+programming+with+C/C%2B%2B+and+Linux;🐧+System+administration+and+DevOps+workflows;📚+Exploring+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration)
 
 
 ---
@@ -24,7 +24,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frontend
