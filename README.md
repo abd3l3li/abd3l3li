@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=950&lines=🚀+Web+Developer+%7C+React+•+RestAPI+•+Docker;🎨+Building+scalable+UIs+and+Consuming+and+integrating+REST+APIs;⚙️+Low-level+programming+with+C/C%2B%2B+and+Linux;🐧+System+administration+and+DevOps+workflows;📚+Exploring+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=950&lines=🚀+Web+Developer+%7C+React+•+RestAPI+•+Docker;🎨+Building+scalable+UIs+with+React+%26+Tailwind;🔗+Consuming+and+integrating+REST+APIs;⚙️+Low-level+programming+with+C/C%2B%2B+and+Linux;🐧+System+administration+and+DevOps+workflows;📚+Exploring+algorithms+and+data+structures;🤝+Open+to+open-source+collaboration)
 
 
 ---
